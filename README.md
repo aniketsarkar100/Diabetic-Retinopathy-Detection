@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+# Diabetic Retinopathy Prediction 
