@@ -40,4 +40,3 @@ With continued development, this model can assist in routine screenings for diab
 
 ---
 
-This README provides a comprehensive view of the project’s aim to tackle diabetic retinopathy, emphasizing the medical and technological importance without delving into code specifics. Let me know if you'd like any additions!
