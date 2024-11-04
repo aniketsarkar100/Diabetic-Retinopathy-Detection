@@ -8,7 +8,7 @@ This project focuses on detecting and preventing diabetic retinopathy (DR), a se
 ## About Diabetic Retinopathy
 
 Diabetic retinopathy is a medical condition that damages the blood vessels in the retina due to high blood sugar levels associated with diabetes. If undetected, it can progress from mild visual impairment to severe vision loss. The key to managing this condition is early detection and timely treatment, as interventions in the early stages can prevent severe complications.
-![diabetic-rethonopaty-1200x675](https://github.com/user-attachments/assets/fe1f1412-0fc6-4588-8dfc-7f238211a6eb)
+![diabetic-rethonopaty](https://github.com/user-attachments/assets/8458aed0-5fa9-4c21-befb-f9935c2ea129)
 
 Key facts about diabetic retinopathy:
 - **Progression**: DR often starts without symptoms but progresses to advanced stages if untreated.
