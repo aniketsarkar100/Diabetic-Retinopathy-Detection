@@ -1,6 +1,4 @@
 # Diabetic Retinopathy Prediction 
-Here’s an updated README focused on diabetic retinopathy detection and prevention, along with an explanation of the project. This version explains the context, importance, and aims of the project without diving into code.
-
 ---
 
 # Diabetic Retinopathy Detection Project
